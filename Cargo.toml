@@ -1,0 +1,10 @@
+[package]
+name = "portifolio-regressao-linear"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "portifolio_regressao_linear"
+path = "src/lib.rs"
